@@ -19,6 +19,7 @@ ________________________________________
 • Overall Churn Rate: 26.86%  
 • Total Customers Analyzed: 6,687  
 • Churned Customers: 1,796  
+
 ![image](https://github.com/user-attachments/assets/96349e29-7eae-4093-bc6c-edbf2dc73367)
 
 ### Top Churn Reasons:  
@@ -33,7 +34,8 @@ ________________________________________
 
 ### 1. 👥 Churn by Age Group  
 • Customers aged 20–40 and over 70 had the highest churn rates (above 35%).  
-• Middle-aged groups (40–60) had lower churn, indicating a stable and loyal customer base.  
+• Middle-aged groups (40–60) had lower churn, indicating a stable and loyal customer base. 
+
 ![image](https://github.com/user-attachments/assets/f21b8d1c-449f-454e-b86f-5d1618488323)
 
 ### 2. 💳 Payment Method & Churn  
@@ -43,11 +45,13 @@ ________________________________________
 ### 3. 📍 Churn by Contract Type  
 • Month-to-Month contracts had the highest churn (46.29%).  
 • One-Year and Two-Year contracts showed much lower churn (~6–11%), indicating loyalty increases with longer commitments.  
+
 ![image](https://github.com/user-attachments/assets/7d1d8c79-aff2-4efa-9c9d-f289196414dd)
 
 ### 4. 📡 Extra Charges Impact  
 • High extra international and data charges correlated with churn.  
 • Customers with "Unlimited Data Plans" churned more (32%) than those without (16%), suggesting perceived value gaps.  
+
 ![image](https://github.com/user-attachments/assets/a1a2ac16-8699-4d1b-8265-d5019ee62f11)
 
 ### 5. 📍 Geographic Insight  
@@ -76,7 +80,7 @@ ________________________________________
 ________________________________________  
 
 ## 📎 View the Full Dashboard  
-> [Click here to view on Power BI Service 🔗](#) *([Insert your Power BI dashboard link here](https://app.powerbi.com/groups/me/reports/853af053-bfe6-47a6-86ab-b83931576b1a/ReportSection0da0007f61773311eb77?bookmarkGuid=0238ae15-b33f-4908-8e9f-d7c4a987c9a7&bookmarkUsage=1&ctid=5c36af24-89a1-4207-a914-c46752a318b9&portalSessionId=5e97a93e-3c68-4746-83a9-9fa94e757aa8&fromEntryPoint=export))*
+> [Click here to view on Power BI Service 🔗](#) *(https://app.powerbi.com/groups/me/reports/853af053-bfe6-47a6-86ab-b83931576b1a/ReportSection0da0007f61773311eb77?bookmarkGuid=0238ae15-b33f-4908-8e9f-d7c4a987c9a7&bookmarkUsage=1&ctid=5c36af24-89a1-4207-a914-c46752a318b9&portalSessionId=5e97a93e-3c68-4746-83a9-9fa94e757aa8&fromEntryPoint=export)*
 
 ---
 
